@@ -13,7 +13,7 @@ import com.example.asus.d_biumsemarang1.listener.MainActivityListener;
 /**
  * Created by ASUS on 11/26/2017.
  */
-
+//Verifikasi setelah sewa
 public class MyVerificationBroadcastReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {

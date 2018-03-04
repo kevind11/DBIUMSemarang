@@ -12,7 +12,7 @@ import com.example.asus.d_biumsemarang1.listener.AppBarListener;
 /**
  * Created by ASUS on 12/11/2017.
  */
-
+//reload
 public class ExtendsSwipeRefresh extends SwipeRefreshLayout {
     private ViewGroup mContainer;
     private AppBarListener mAppBarListener;

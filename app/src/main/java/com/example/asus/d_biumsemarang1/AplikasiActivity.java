@@ -14,6 +14,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 public class AplikasiActivity extends AppCompatActivity {
+    //tentang aplikasi
     private ImageView mImage;
     private LinearLayout mLinear;
     @Override
@@ -30,6 +31,7 @@ public class AplikasiActivity extends AppCompatActivity {
 
 
     }
+    //
     private void initView(){
         mImage = findViewById(R.id.mImage);
         mLinear = findViewById(R.id.mLinear);

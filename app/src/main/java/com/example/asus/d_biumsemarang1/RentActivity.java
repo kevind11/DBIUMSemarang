@@ -109,6 +109,7 @@ public class RentActivity extends AppCompatActivity implements View.OnClickListe
             mTimepoint[i] = new Timepoint(hour);
             hour++;
         }
+        //cancel sewa ketika lost connection
         mReceiver = new BroadcastReceiver() {
             @Override
             public void onReceive(Context context, Intent intent) {

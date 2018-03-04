@@ -16,7 +16,7 @@ import java.net.URL;
 /**
  * Created by ASUS on 12/5/2017.
  */
-
+//Mencari lokasi
 public class GoogleMapLoader extends AsyncTaskLoader<String> {
     private String mData;
     private boolean isFirstTime = true;

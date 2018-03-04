@@ -12,7 +12,6 @@
         android:id="@+id/mImage"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:background="@color/colorTouch"
         android:layout_marginBottom="16dp"
         android:src="@drawable/logo"/>
     <TextView
